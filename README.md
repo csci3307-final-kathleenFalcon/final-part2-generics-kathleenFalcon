@@ -1,4 +1,4 @@
-#Java Generics
+# Java Generics
 --Generic interface "MyGenInterface" that takes two generic types K and V with two methods to return K (key) and V (value) which are not implemented.
 
 --Generic class "MyGenClass" that implements MyGenInterface with attributes K key and V value, constructor to set key and value, and implementation of getKey() and getValue()
